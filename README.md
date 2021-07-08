@@ -1,2 +1,2 @@
-# Pessoas-com-Defici-ncia
-O trabalho analisa as vagas de emprego disponibilizada para pessoas com deficiência
+# Pessoas-com-Deficiencia
+O trabalho analisa as vagas de emprego disponibilizada para pessoas com deficiência, extraindo as informações do site https://www.deficienteonline.com.br.
